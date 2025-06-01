@@ -13,7 +13,7 @@ A fully responsive, high-fidelity clone of the official Nostra homepage built us
 
 🔗https://gunasekaran07.github.io/Nostra-clone/
 
-##n Linkedin
+##  Linkedin
 
 http://www.linkedin.com/in/gunasekaran-b-976ba11a0
 
